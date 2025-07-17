@@ -2,7 +2,7 @@
 
 ## 📌 Features
 - ✅ CRUD operations for Product (name, price, quantity)
-
+---
 ## 🛠️ Technologies Used
 - Node.js
 - Express.js
