@@ -16,7 +16,7 @@
 2. Run `npm install` to install dependencies  
 3. Create a `.env` file with your MongoDB URI  
 4. Run `node server.js` to start the server  
-5. Use Postman or browser to test API endpoints    ```
+5. Use Postman or browser to test API endpoints   
 ---
 **📮 API Endpoints**
 **📦 Products**
