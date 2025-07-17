@@ -1,7 +1,6 @@
 # Simple REST API - Node.js + Express + MongoDB
 
 ## 📌 Features
-- ✅ User registration & login (no authentication logic)
 - ✅ CRUD operations for Product (name, price, quantity)
 
 ## 🛠️ Technologies Used
@@ -12,35 +11,14 @@
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/rest-api-nodejs-mongo.git
-    cd rest-api-nodejs-mongo
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-3. Create a .env file:
-    ```bash
-    MONGO_URI=mongodb://127.0.0.1:27017/my_rest_api
-    PORT=5000
-    ```
-4. Run the server:
-    ```bash
-    node server.js 
-    ```
+ server.js 
+1. Clone the repo  
+2. Run `npm install` to install dependencies  
+3. Create a `.env` file with your MongoDB URI  
+4. Run `node server.js` to start the server  
+5. Use Postman or browser to test API endpoints    ```
 ---
 **📮 API Endpoints**
-**👤 Users**
-| Method | Endpoint              | Description     |
-| ------ | --------------------- | --------------- |
-| POST   | `/api/users/register` | Register a user |
-| POST   | `/api/users/login`    | Login a user    |
----
 **📦 Products**
 | Method | Endpoint            | Description        |
 | ------ | ------------------- | ------------------ |
