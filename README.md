@@ -1,4 +1,4 @@
-# Simple REST API - Node.js + Express + MongoDB
+# Simple Curd Operations - Node.js + Express + MongoDB
 
 ## 📌 Features
 - ✅ CRUD operations for Product (name, price, quantity)
